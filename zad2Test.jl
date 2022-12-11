@@ -1,6 +1,7 @@
+#author: Norbert Jaśniewicz
+
 include("MyFunctions.jl")
 using .MyFunctions
-
 
 function main()
   arg1::Vector{Float64} = [3.0, 1.0, 5.0, 6.0]
